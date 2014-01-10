@@ -1,8 +1,6 @@
 HELLO!
 Thank you for downloading Scribble Board!
 
---NOTE-- Please refer to the instructional video, which covers all these instructions in an easy to understand format --NOTE--
-
 ***Instructions***
 
 There are a couple things to know in order to use Scribble Board effectively.
